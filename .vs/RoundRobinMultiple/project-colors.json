@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2556c75-458a-4c60-accb-02e4eb56fbb8": {
+      "ProjectGuid": "c2556c75-458a-4c60-accb-02e4eb56fbb8",
+      "DisplayName": "RoundRobinMultiple",
+      "ColorIndex": 0
+    },
+    "5ea4cce5-6dd5-4a87-bdc5-d75b4ed88c0a": {
+      "ProjectGuid": "5ea4cce5-6dd5-4a87-bdc5-d75b4ed88c0a",
+      "DisplayName": "RoundRobinCLI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
